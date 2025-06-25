@@ -99,4 +99,6 @@ function verificarColisao(cabeca){
         
         }
     }
+    return false;
 }
+iniciar();
